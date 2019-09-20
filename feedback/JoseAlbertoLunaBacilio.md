@@ -1,4 +1,4 @@
-##LE & GE Feedback
+## LE & GE Feedback
 
 Al rededor de mi primer semana dentro de Softtek han ocurrido muchas cosas nuevas,
 había tenido un acercamiento con Linux, pero totalmente diferente a la experiencia
